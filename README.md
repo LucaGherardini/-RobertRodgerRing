@@ -1,6 +1,6 @@
-# RobertRodgerRing
-Simple c++ application to plot the Robert Rodger's ring equation (http://paulbourke.net/fractals/peterdejong/) in a text file usable for plotting. The code doesn't require particular libraries or settings. Running the program passing the desired number of iterations is recommended.
-> ./RobertRodgerRing 1000
+# JohnnySvenssonRing
+Simple c++ application to plot the Johnny Svensson's ring equation (http://paulbourke.net/fractals/peterdejong/) in a text file usable for plotting. The code doesn't require particular libraries or settings. Running the program passing the desired number of iterations is recommended.
+> ./JohnnySvenssonRing 1000
 
 The output will be contained in a text file named 'ring.txt' in the same folder.
 
